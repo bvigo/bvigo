@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bvigo
 - 👀 I’m interested in ... Python, database management, data science, mathematical modelling, statistics, forecasting
-- 🌱 I’m currently learning ... Python
+- 🌱 I’m currently learning ... Python, Data Science
 - 💞️ I’m looking to collaborate on ... anything I can learn something from
 - 📫 How to reach me ... email me!
 
